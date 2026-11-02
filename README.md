@@ -1,3 +1,4 @@
+▶ [Demo Video](https://drive.google.com/file/d/1mmoNVnKWD4bEdNYYFdJDX5SxqXiSzKd4/view?usp=drivesdk)
 # 🤖 Advanced RAG-Based LLM Application
 
 > **A cutting-edge document processing and Q&A application with advanced RAG (Retrieval-Augmented Generation) capabilities**
@@ -5,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-19.2.0-blue)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-green)](https://python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Backend-red)](https://flask.palletsprojects.com/)
-[![Gemini API](https://img.shields.io/badge/Gemini-2.0%20Flash-purple)](https://ai.google.dev/)
+[![Gemini API](https://img.shields.io/badge/Gemini-3.5%20Flash-purple)](https://ai.google.dev/)
 [![RAG](https://img.shields.io/badge/RAG-Enabled-orange)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 
 ## 🚀 Quick Start
